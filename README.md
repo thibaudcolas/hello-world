@@ -1,2 +1,6 @@
-# hello-world
-Hello, World!
+hello-world
+===========
+
+> Bonjour, monde!
+
+Hello, World! In many different languages!
